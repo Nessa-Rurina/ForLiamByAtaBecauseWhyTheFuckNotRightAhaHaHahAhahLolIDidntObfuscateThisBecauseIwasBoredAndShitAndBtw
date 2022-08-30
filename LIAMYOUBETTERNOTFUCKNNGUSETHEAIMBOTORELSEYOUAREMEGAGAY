@@ -1,4 +1,4 @@
-	if game.PlaceId == 0 then
+	if game.PlaceId == 292439477 then
 	-- Gui to Lua
 	-- Version: 3.2
 
